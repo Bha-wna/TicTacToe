@@ -1,2 +1,2 @@
 # TicTacToe
-Used basic loops to create this game 
+Created this fun game using basic for loops. 
